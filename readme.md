@@ -68,13 +68,13 @@ or
 
 ------------
 
-### How to add peerDependencies?
+### ➡️ How to add peerDependencies?
 
 1. Open **package.json** file, find "peerDependencies" section and add dependencies there
 
 ------------
 
-### How to publish NPM package
+### ➡️ How to publish NPM package
 
 Inside your root project in the terminal type
 
@@ -96,6 +96,6 @@ and you just published your first npm module
 
 ------------
 
-### Troubleshooting
+### ➡️ Troubleshooting
 
 [How to handle peer dependencies when developing modules](https://dev.to/yvonnickfrin/how-to-handle-peer-dependencies-when-developing-modules-18fa "How to handle peer dependencies when developing modules")
