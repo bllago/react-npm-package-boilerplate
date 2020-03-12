@@ -1,6 +1,6 @@
 {
   "name": "react-npm-package-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Boilerplate for building a react component as NPM package",
   "main": "index.js",
   "scripts": {
