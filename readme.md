@@ -1,11 +1,10 @@
 # React NPM package boilerplate
 
-Boilerplate for building a react component as NPM package.
+## Boilerplate for building a react component as NPM package.
 
-Build NPM modules for your ReactJS project incredibly fast. ⚡️
+⚡️ Build NPM modules for your ReactJS project incredibly fast.
 
 ✅ ES5, ES6 compatible
-
 ✅ ReactJS ^16.6.1
 
 ------------
@@ -32,7 +31,7 @@ or
 
 `yarn install`
 
-4. Open react-npm-package-boilerplate**/src/index.js** in your favorite IDE and start work on your awesome NPM package
+4. Open react-npm-package-boilerplate **/src/index.js** in your favorite IDE and start work on your awesome NPM package
 
 ------------
 
