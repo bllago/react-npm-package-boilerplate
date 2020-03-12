@@ -2,25 +2,25 @@
 
 Boilerplate for building a react component as NPM package.
 
-Build NPM modules for your ReactJS project incredibly fast. :tw-26a1:
+Build NPM modules for your ReactJS project incredibly fast. ⚡️
 
-:tw-2705: ES5, ES6 compatible
+✅ ES5, ES6 compatible
 
-:tw-2705: ReactJS ^16.6.1
+✅ ReactJS ^16.6.1
 
 ------------
 
 ### How to start?
 
-1. **Clone** project into your working directory using
-ssh: `git clone git@github.com:bllago/react-npm-package-boilerplate.git`
+1. **Clone** project into your working directory using 
+ssh: `git clone git@github.com:bllago/react-npm-package-boilerplate.git` 
 or
 https: `git clone https://github.com/bllago/react-npm-package-boilerplate.git`
 
-2. Switch to the **react-npm-package-boilerplate** directory
+2. Switch to the **react-npm-package-boilerplate** directory 
 `cd react-npm-package-boilerplate`
 
-3. Run
+3. Run 
 `npm install`
 or
 `yarn install`
