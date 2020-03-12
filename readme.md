@@ -99,3 +99,25 @@ and you just published your first npm module
 ### ➡️ Troubleshooting
 
 [How to handle peer dependencies when developing modules](https://dev.to/yvonnickfrin/how-to-handle-peer-dependencies-when-developing-modules-18fa "How to handle peer dependencies when developing modules")
+
+------------
+
+### ➡️ Contribution
+
+If you're reading this, you're awesome! Thank you for helping us make this project great. Here are a few guidelines that will help you along the way.
+
+[Contributor covenant](https://www.contributor-covenant.org/ "Contributor covenant")
+
+[How to contribute to an open-source project on Github](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+
+------------
+
+### ➡️ Inspired by
+
+[Manoj Singh Negi](https://medium.com/@manojsinghnegi)
+
+------------
+
+### ➡️ License
+
+This project is licensed under the terms of the MIT license.
