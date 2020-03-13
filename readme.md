@@ -36,6 +36,13 @@ or
 
 ------------
 
+### ➡️ How to change GIT remote origin?
+
+1. Run `git remote remove origin`
+2. Run `git remote add origin <link_to_your_repo_here>`
+
+------------
+
 ### ➡️ How to build component?
 
 1. Just run `npm run build` or `yarn build`. After that, you will see generated **index.js** file in your root folder *(react-npm-package-boilerplate/)*
