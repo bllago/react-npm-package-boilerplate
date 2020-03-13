@@ -83,23 +83,17 @@ or
 
 ### ➡️ How to publish NPM package
 
-Inside your root project in the terminal type
+Step 1: Use `publishConfig` option in your package.json
 
-`npm adduser`
+`"publishConfig": { "registry": "https://npm.pkg.github.com/" }`
 
-then npm will ask for your username, password, and email if you don’t have an account with npm go create one first.
+Step 2: Authenticate
 
-After above command user npm login command so you will be logged in to npm
+`$ npm login --registry=https://npm.pkg.github.com/`
 
-`npm login`
+`Step 3: Publish`
 
-It will again ask for your account information provide it and after that, we are good to go.
-
-To publish your npm module just type
-
-`npm publish`
-
-and you just published your first npm module
+$ npm publish
 
 ------------
 
